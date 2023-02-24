@@ -1,16 +1,24 @@
-### Hi there 👋
+![my great header](Banner.png)
 
-<!--
-**CamBerry1/CamBerry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://www.linkedin.com/in/cameron-berry-5b897817/" target="_blank" rel="noopener noreferrer"><img height="38" src="linkedin.png"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+<a href="https://skyline.github.com/CamBerry1/2023" title="My 2023 GitHub Skyline"><img src="Skyline.png" alt="2023 GitHub Skyline" width="100%" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
